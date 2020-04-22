@@ -35,6 +35,7 @@ public class FilePathUtil {
 
     public static boolean createPath(String filePath){
         File file =new File(filePath);
+        deletePath(file);
         if(!file.exists()){
             return file.mkdir();
         }

@@ -24,7 +24,7 @@ public class MapReduceContext {
     private static File[] finalFiles;
     private StringBuilder sb = new StringBuilder();
     private static String tmppath;
-    private static String finalpath;
+    private static String outputpath;
     private static AtomicInteger ai;
     private BufferedOutputStream finalbos = null;
 
@@ -36,21 +36,22 @@ public class MapReduceContext {
      */
     static {
 
-        kvList = new ArrayList(numReduceTasks);
+        kvList = new ArrayList<>(numReduceTasks);
         files = new File[numReduceTasks];
         finalFiles=new File[numReduceTasks];
         ai = new AtomicInteger(0);
         isfinish = false;
         tmppath=PropertiesParser.getValue(PropertyKeys.TEMPPATH.getName());
-        finalpath=PropertiesParser.getValue(PropertyKeys.OUTPUTPATH.getName());
+        outputpath=PropertiesParser.getValue(PropertyKeys.OUTPUTPATH.getName());
 
         for (int i = 0; i < numReduceTasks; i++) {
+
             kvList.add(KVListSerial.KVList.newBuilder());
             FilePathUtil.createPath(tmppath);
-            FilePathUtil.createPath(finalpath);
+            FilePathUtil.createPath(outputpath);
 
             files[i] = new File(tmppath+"/tmp"+i+".txt");
-            finalFiles[i] = new File(finalpath+"/final"+i+".txt");
+            finalFiles[i] = new File(outputpath+"/final"+i+".txt");
 
             try {
                 files[i].createNewFile();
@@ -113,7 +114,7 @@ public class MapReduceContext {
             Mapper.endFlag=false;
 
         }else {
-            //结束了
+            //reduce
             if (this.finalbos==null){
                 try {
                     this.finalbos=new BufferedOutputStream(new FileOutputStream(finalFiles[ai.getAndIncrement()],true));

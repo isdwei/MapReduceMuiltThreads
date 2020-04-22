@@ -36,8 +36,8 @@ public class ReduceTaskWapper implements Runnable {
 
         try {
             this.fileSize = new RandomAccessFile(new File(this.filePath), "r").length();
-        } catch (IOException var3) {
-            var3.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
 
