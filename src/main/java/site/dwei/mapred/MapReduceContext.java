@@ -15,7 +15,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * @date 2020-04-18
  * @description
  */
-public class MapReduceContext {
+public class MapReduceContext extends Context{
 
     private static int numReduceTasks=Integer.parseInt(PropertiesParser.getValue(PropertyKeys.REDUCETASK.getName()));
     private static boolean isfinish;
@@ -64,7 +64,7 @@ public class MapReduceContext {
     }
 
 
-    public void write(String key, Long value){
+    public void write(String key, long value){
         //如果还没结束
         if(!isfinish){
 
@@ -161,7 +161,4 @@ public class MapReduceContext {
         }
     }
 
-    public void deleteTmpFile(){
-        new File(tmppath).deleteOnExit();
-    }
 }

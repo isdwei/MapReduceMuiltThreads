@@ -6,5 +6,5 @@ package site.dwei.mapred;
  * @description
  */
 public abstract class Reducer {
-    public abstract void reduce(String key, Iterable value, MapReduceContext mrContext);
+    public abstract void reduce(String key, Iterable value, Context context);
 }

@@ -33,6 +33,10 @@ public class FilePathUtil {
         }
     }
 
+    public static boolean deletePath(String filePath){
+        return deletePath(new File(filePath));
+    }
+
     public static boolean createPath(String filePath){
         File file =new File(filePath);
         deletePath(file);

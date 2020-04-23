@@ -50,7 +50,8 @@ public class MapLaunch  {
          * 获取任务
          */
         Mapper mapper = MRFactory.mapTask;
-        MapReduceContext mrContext = MRFactory.mrContext;
+       // MapReduceContext mrContext = MRFactory.mrContext;
+        Context context = MRFactory.getMapContext();
 
         //每读一行，存入tmp
         String tmp ;
@@ -82,7 +83,8 @@ public class MapLaunch  {
                     splitSignal =true;
                     tmpLength=0L;
                 }
-                mapper.map(position, tmp, mrContext);
+                //mapper.map(position, tmp, mrContext);
+                mapper.map(position,tmp,context);
             }
         } catch (IOException e) {
             e.printStackTrace();

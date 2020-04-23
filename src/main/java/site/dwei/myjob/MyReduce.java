@@ -1,5 +1,6 @@
 package site.dwei.myjob;
 
+import site.dwei.mapred.Context;
 import site.dwei.mapred.MapReduceContext;
 import site.dwei.mapred.Reducer;
 
@@ -17,7 +18,7 @@ public class MyReduce extends Reducer {
     private Long tmpvalue = 0L;
 
     @Override
-    public void reduce(String key, Iterable value, MapReduceContext mrContext) {
+    public void reduce(String key, Iterable value, Context context) {
 
         long result=0L;
 
@@ -27,6 +28,6 @@ public class MyReduce extends Reducer {
             Object next = iterator.next();
             result+=(long)next;
         }
-        mrContext.write(key,result);
+        context.write(key,result);
     }
 }

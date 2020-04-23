@@ -18,7 +18,7 @@ public class PropertiesParser {
     }
 
     public static void load(String path){
-        InputStream in = Class.class.getResourceAsStream("/site/dwei/"+path);
+        InputStream in = Class.class.getClassLoader().getResourceAsStream(path);
         load(in);
     }
 

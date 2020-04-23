@@ -20,7 +20,6 @@ public class ReduceTaskWapper implements Runnable {
     private Long numOfTasks;
     private Map<String, List<Object>> tm = null;
     private int index;
-    private CountDownLatch countDownLatch;
     /**
      * the length of this file, measured in bytes.
      */
@@ -100,7 +99,7 @@ public class ReduceTaskWapper implements Runnable {
             }
 
             Reducer reducer = MRFactory.getNewReduceTask();
-            MapReduceContext mrContext = MRFactory.mrContext;
+            Context context = MRFactory.getReduceContext();
 
             int count = 0;
             int size = tm.size();
@@ -112,7 +111,7 @@ public class ReduceTaskWapper implements Runnable {
                 if (count == size) {
                     taskLocal.set("final");
                 }
-                reducer.reduce(next.getKey(), next.getValue(), mrContext);
+                reducer.reduce(next.getKey(), next.getValue(), context);
             }
         } catch (InvalidProtocolBufferException e) {
             e.printStackTrace();

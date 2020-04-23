@@ -1,0 +1,14540 @@
+
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes
+
+Buffers
+
+
+format
+
+	Copyright
+
+
+rights
+
+Redistribution
+
+and
+
+use
+
+
+source
+
+and
+
+or
+
+provided
+
+that
+
+of
+
+
+source
+
+	copyright
+
+of
+
+and
+
+disclaimer.
+
+	copyright
+
+of
+
+and
+
+
+disclaimer
+
+
+and/or
+
+provided
+
+Neither
+
+name
+
+of
+
+of
+
+be
+
+to
+
+or
+
+software
+
+written
+
+permission.
+
+SOFTWARE
+
+PROVIDED
+
+BY
+
+	COPYRIGHT
+
+HOLDERS
+
+AND
+
+AND
+
+OR
+
+
+INCLUDING,
+
+NOT
+
+OF
+
+AND
+
+	COPYRIGHT
+	
+OWNER
+
+OR
+
+BE
+
+
+LIABLE
+
+DIRECT,
+
+INCIDENTAL,
+
+SPECIAL,
+
+
+EXEMPLARY,
+
+OR
+
+(INCLUDING,
+
+NOT
+
+OF
+
+OR
+
+LOSS
+
+OF
+
+OR
+
+OR
+
+
+CAUSED
+
+AND
+
+ON
+
+OF
+
+
+LIABILITY,
+
+
+LIABILITY,
+
+OR
+
+OR
+
+ARISING
+
+WAY
+
+OF
+
+USE
+
+OF
+
+OF
+
+POSSIBILITY
+
+OF
+
+SUCH
+
+DAMAGE.
+
+
+syntax
+
+google.protobuf;
+
+csharp_namespace
+
+
+go_package
+
+"AnyProto";
+
+contains
+
+message
+
+URL
+
+that
+
+of
+
+message.
+
+Protobuf
+
+library
+
+support
+
+to
+
+of
+
+	functions
+
+or
+
+
+additional
+
+	generated
+
+of
+
+and
+
+message
+
+C++.
+
+any;
+
+{
+
+and
+
+message
+
+Any.pack(foo);
+
+{
+
+3:
+
+and
+
+message
+
+any.Unpack(foo)
+
+and
+
+message
+
+:=
+
+:=
+
+:=
+
+:=
+
+{
+
+provided
+
+by
+
+protobuf
+
+library
+
+by
+
+use
+
+URL
+
+and
+
+use
+
+name
+
+'/'
+
+"foo.bar.com/x/y.z"
+
+name
+
+
+"y.z".
+
+of
+
+of
+
+deserialized,
+
+
+additional
+
+contains
+
+URL.
+
+google.profile;
+
+message
+
+{
+
+{
+
+	<string>,
+
+"lastName":
+
+message
+
+and
+
+representation,
+
+that
+
+be
+
+`value`
+
+to
+
+message
+"
+[google.protobuf.Duration][]):
+
+{
+
+"value":
+
+"1.212s"
+
+message
+
+{
+
+name
+
+that
+
+of
+
+message.
+
+at
+
+segment
+
+of
+	
+URL's
+
+name
+
+of
+
+name
+
+
+should
+
+be
+
+not
+
+usually
+
+that
+
+it
+
+to
+
+use
+
+context
+
+of
+
+use
+
+`https`,
+
+or
+
+scheme,
+
+up
+
+
+server
+
+that
+
+maps
+
+to
+
+message
+
+on
+
+URL
+
+or
+
+Applications
+
+to
+	
+based
+
+on
+
+or
+
+to
+
+to
+
+be
+
+on
+
+changes
+
+to
+
+(Use
+
+	versioned
+
+to
+
+breaking
+
+functionality
+
+not
+
+official
+
+protobuf
+
+and
+
+it
+
+not
+
+(or
+	
+might
+
+be
+
+be
+
+of
+	
+bytes

@@ -1,6 +1,7 @@
 package site.dwei.mapred;
 
 import site.dwei.constant.PropertyKeys;
+import site.dwei.util.FilePathUtil;
 import site.dwei.util.MRFactory;
 import site.dwei.util.PropertiesParser;
 
@@ -15,11 +16,11 @@ import java.util.concurrent.TimeUnit;
  * @description
  */
 public class ReduceLaunch {
-    MapReduceContext mrContext;
+    Context context;
 
     public void calculate(){
 
-        mrContext = MRFactory.mrContext;
+        context = MRFactory.getReduceContext();
         //ReduceTask
         Integer num = Integer.valueOf(PropertiesParser.getValue(PropertyKeys.REDUCETASK.getName()));
         ExecutorService pool = Executors.newFixedThreadPool(num);
@@ -28,7 +29,6 @@ public class ReduceLaunch {
             pool.submit(new ReduceTaskWapper(i));
 
         }
-
 
         pool.shutdown();
 //        try {
@@ -39,6 +39,6 @@ public class ReduceLaunch {
 //            e.printStackTrace();
 //        }
 
-        mrContext.deleteTmpFile();
+        FilePathUtil.deletePath(PropertiesParser.getValue(PropertyKeys.TEMPPATH.getName()));
     }
 }

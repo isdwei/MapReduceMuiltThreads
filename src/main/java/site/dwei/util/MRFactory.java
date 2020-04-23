@@ -1,9 +1,7 @@
 package site.dwei.util;
 
-import site.dwei.mapred.MapReduceContext;
+import site.dwei.mapred.*;
 import site.dwei.constant.PropertyKeys;
-import site.dwei.mapred.Mapper;
-import site.dwei.mapred.Reducer;
 
 /**
  * @author weitu
@@ -14,6 +12,7 @@ public class MRFactory {
 
     public static Mapper mapTask = null;
     public static MapReduceContext mrContext = null;
+
 
     private static Class mapClass = null;
     private static Class reduceClass = null;
@@ -49,5 +48,13 @@ public class MRFactory {
             throw new RuntimeException("加载reduce类出错");
 
         }
+    }
+
+    public static Context getMapContext(){
+        return new MapContext();
+    }
+
+    public static Context getReduceContext() {
+        return new ReduceContext();
     }
 }

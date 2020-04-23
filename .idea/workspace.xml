@@ -2,15 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9250db1-deb5-49c9-bf2a-96cc8ece6e41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/site/dwei/SingleThread/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceContext.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapLaunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapLaunch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapReduceContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapReduceContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceLaunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceLaunch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceTaskWapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceTaskWapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/Reducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/dwei/mapred/Reducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/dwei/myjob/MyMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/dwei/myjob/MyMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/dwei/myjob/MyReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/dwei/myjob/MyReduce.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/site/dwei/util/FilePathUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/dwei/util/FilePathUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/dwei/util/MRFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/dwei/util/MRFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/dwei/util/PropertiesParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/dwei/util/PropertiesParser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/in.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/mr.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mr.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/in.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/mr.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mr.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/site/dwei/mapred/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/site/dwei/mapred/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/site/dwei/mapred/MapLaunch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/site/dwei/mapred/MapLaunch.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/site/dwei/mapred/MapReduceContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/site/dwei/mapred/MapReduceContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/site/dwei/mapred/Mapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/site/dwei/mapred/Mapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/site/dwei/mapred/ReduceLaunch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/site/dwei/mapred/ReduceLaunch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/site/dwei/mapred/ReduceTaskWapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/site/dwei/mapred/ReduceTaskWapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/site/dwei/mapred/Reducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/site/dwei/mapred/Reducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/site/dwei/myjob/MyMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/site/dwei/myjob/MyMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/site/dwei/myjob/MyReduce.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/site/dwei/myjob/MyReduce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/site/dwei/util/FilePathUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/site/dwei/util/FilePathUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/site/dwei/util/MRFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/site/dwei/util/MRFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/site/dwei/util/PropertiesParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/site/dwei/util/PropertiesParser.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,21 +45,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapReduceContext.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/SingleThread/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-39">
-              <caret line="95" column="69" selection-start-line="95" selection-start-column="69" selection-end-line="95" selection-end-column="69" />
+            <state relative-caret-position="296">
+              <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/util/PartitionUtil.java">
+        <entry file="file://$PROJECT_DIR$/out.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="65" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="65" />
+            <state relative-caret-position="-1488" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/in.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="4776" column="10" selection-start-line="4776" selection-start-column="10" selection-end-line="4776" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -43,76 +77,66 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceLaunch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="27" column="35" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceTaskWapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="114" column="26" selection-start-line="114" selection-start-column="16" selection-end-line="114" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/Reducer.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/myjob/MyReduce.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mr.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="36" />
+            <state relative-caret-position="112">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapLaunch.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/out/final0.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="84" column="24" lean-forward="true" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+            <state relative-caret-position="380">
+              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/Mapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/resources/out/final1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/myjob/MyMap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/out/final2.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/out/final3.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="42" />
+            <state relative-caret-position="8">
+              <caret line="66" column="58" lean-forward="true" selection-start-line="66" selection-start-column="58" selection-end-line="66" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -122,15 +146,26 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/site/dwei/BootStrap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/Driver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceLaunch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/util/FilePathUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/util/PropertiesParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/JobConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/util/KVListSerial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/Context.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapContext.java" />
         <option value="$PROJECT_DIR$/src/main/java/site/dwei/util/MRFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapLaunch.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/mr.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/site/dwei/util/FilePathUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/in.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapReduceContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/Mapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/Reducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/myjob/MyReduce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceLaunch.java" />
         <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceTaskWapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/myjob/MyMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/Driver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapReduceContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/site/dwei/SingleThread/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/in.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/mr.properties" />
       </list>
     </option>
   </component>
@@ -151,16 +186,16 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="226" />
-    <option name="width" value="2512" />
-    <option name="height" value="1756" />
+    <option name="x" value="58" />
+    <option name="width" value="2684" />
+    <option name="height" value="1562" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,15 +236,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dwei" type="462c0819:PsiDirectoryNode" />
-              <item name="constant" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MapReduceMuiltThreads" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapReduceMuiltThreads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dwei" type="462c0819:PsiDirectoryNode" />
               <item name="mapred" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -219,7 +245,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dwei" type="462c0819:PsiDirectoryNode" />
-              <item name="myjob" type="462c0819:PsiDirectoryNode" />
+              <item name="SingleThread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MapReduceMuiltThreads" type="b2602c69:ProjectViewProjectNode" />
@@ -237,25 +263,47 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MapReduceMuiltThreads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MapReduceMuiltThreads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MapReduceMuiltThreads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MapReduceMuiltThreads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587352389618" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587622567084" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mr" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaWork\MapReduceMuiltThreads\src\main\java\site\dwei\util" />
       <recent name="E:\JavaWork\MapReduceMuiltThreads\src\main\resources" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="site.dwei.mapred" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaWork\MapReduceMuiltThreads\src\main\java\site\dwei\util" />
       <recent name="E:\JavaWork\MapReduceMuiltThreads\src\main\resources" />
     </key>
   </component>
@@ -298,6 +346,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="site.dwei.SingleThread.Test" />
+      <module name="MapReduceMuiltThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="site.dwei.SingleThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Driver.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MapReduceMuiltThreads" />
       <extension name="coverage">
@@ -317,6 +378,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="JUnit.Driver.test1" />
         <item itemvalue="Application.BootStrap" />
       </list>
@@ -353,49 +415,81 @@
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494331" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Anonymous Apex" />
-      <window_info anchor="bottom" id="Log Analyzer" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32968536" />
-      <window_info anchor="bottom" id="SOQL Query" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.360274" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3657534" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39863014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.07860922" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Key Promoter X" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="9" />
+      <window_info anchor="bottom" id="Log Analyzer" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32968536" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.077912256" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18767123" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863014" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="9" />
+      <window_info anchor="bottom" id="Log Analyzer" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32968536" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.077912256" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/Driver.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="properties" />
@@ -410,16 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/constant/PropertyKeys.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="e#592#593#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -427,13 +511,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="274" column="11" selection-start-line="274" selection-start-column="11" selection-end-line="274" selection-end-column="11" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tmp/tmp2.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tmp/tmp3.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tmp/tmp4.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tmp/tmp5.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/test_data28W.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/out/final5.txt" />
     <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/BootStrap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -441,130 +526,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/tmp/tmp1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/tmp/tmp2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/tmp/tmp3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/tmp/tmp4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/tmp/tmp5.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/tmp/tmp0.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/test_data28W.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/out/final2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/out/final3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/out/final4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/out/final5.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/util/MRFactory.java">
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/io/File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="184">
+          <caret line="1070" column="16" selection-start-line="1070" selection-start-column="16" selection-end-line="1070" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mr.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/constant/PropertyKeys.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/out/final1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/out/final0.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/in.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="702">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#592#593#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/util/PropertiesParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="432">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/util/FilePathUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/JobConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="176">
+          <caret line="11" column="83" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/Mapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/util/KVListSerial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="112">
+          <caret line="8" column="55" lean-forward="true" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/myjob/MyMap.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar!/com/google/protobuf/Message.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapLaunch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="84" column="24" lean-forward="true" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+        <state relative-caret-position="-160">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/util/PartitionUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="65" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="65" />
+        <state relative-caret-position="128">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/Driver.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar!/com/google/protobuf/Any.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+        <state relative-caret-position="211">
+          <caret line="122" column="33" selection-start-line="122" selection-start-column="33" selection-end-line="122" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceLaunch.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="49" />
+        <state relative-caret-position="16">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceTaskWapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/util/MRFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="114" column="26" selection-start-line="114" selection-start-column="16" selection-end-line="114" selection-end-column="74" />
+        <state relative-caret-position="447">
+          <caret line="53" column="32" lean-forward="true" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+          <folding>
+            <element signature="e#1415#1416#0" expanded="true" />
+            <element signature="e#1453#1454#0" expanded="true" />
+            <element signature="e#1506#1507#0" expanded="true" />
+            <element signature="e#1548#1549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -575,19 +622,138 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/myjob/MyMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tmp/tmp1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tmp/tmp0.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/myjob/MyReduce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="36" />
+        <state relative-caret-position="416">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/util/FilePathUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/out/final4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-738" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapLaunch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="86" column="24" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceTaskWapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-897">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/MapReduceContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39">
-          <caret line="95" column="69" selection-start-line="95" selection-start-column="69" selection-end-line="95" selection-end-column="69" />
+        <state relative-caret-position="864">
+          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceLaunch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/ReduceContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="66" column="58" lean-forward="true" selection-start-line="66" selection-start-column="58" selection-end-line="66" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/SingleThread/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/in.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="4776" column="10" selection-start-line="4776" selection-start-column="10" selection-end-line="4776" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1488" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/site/dwei/mapred/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mr.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/out/final0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/out/final1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/out/final2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/out/final3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

@@ -9,5 +9,5 @@ public abstract class Mapper {
 
     public static boolean endFlag = false;
 
-    public abstract void map(long position, String tmp, MapReduceContext mrContext) ;
+    public abstract void map(long position, String tmp, Context mrContext) ;
 }
