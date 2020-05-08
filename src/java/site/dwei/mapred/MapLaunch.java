@@ -23,8 +23,8 @@ public class MapLaunch {
     public static boolean splitSignal = false;
     public static boolean stateSignal = false;
 
-    public List<String> filePaths;
-    public BufferedReader reader;
+    private List<String> filePaths;
+    private BufferedReader reader;
 
     public void prepareFiles() {
 
@@ -66,15 +66,13 @@ public class MapLaunch {
         //每读一行，存入tmp
         String tmp;
 
-
+        long position = 0L;
         for (String p : filePaths) {
             try {
                 reader = new BufferedReader(new FileReader(p));
                 //按行读，循环
                 while ((tmp = reader.readLine()) != null) {
-                    //当前读到的行数
-                    long position = 0L;
-                    mapper.map(position, tmp, context);
+                    mapper.map(position++, tmp, context);
                 }
             } catch (IOException e) {
                 e.printStackTrace();

@@ -17,14 +17,13 @@ import java.util.concurrent.CountDownLatch;
  */
 public class ReduceTaskWapper implements Runnable {
 
-    private Long numOfTasks;
-    private Map<String, List<Object>> tm = null;
+    private Map<String, List<Object>> tm ;
     private int index;
     /**
      * the length of this file, measured in bytes.
      */
     private Long fileSize = 0L;
-    private String filePath = null;
+    private String filePath ;
     public static ThreadLocal<String> taskLocal = ThreadLocal.withInitial(() -> "init value");
 
     public ReduceTaskWapper(int index) {
@@ -61,9 +60,11 @@ public class ReduceTaskWapper implements Runnable {
             //读取临时文件的数据
             int tmp;
             try {
-                while ((tmp=bis.read(bigbuffer))!=-1){
-                    shortbuffer=new byte[tmp];
-                    System.arraycopy(bigbuffer,0,shortbuffer,0,tmp);
+                if (bis != null) {
+                    while ((tmp=bis.read(bigbuffer))!=-1){
+                        shortbuffer=new byte[tmp];
+                        System.arraycopy(bigbuffer,0,shortbuffer,0,tmp);
+                    }
                 }
             } catch (IOException e) {
                 e.printStackTrace();
@@ -91,12 +92,14 @@ public class ReduceTaskWapper implements Runnable {
 
             for (KVListSerial.KVList.KVText next : kvTexts) {
                 String key = next.getKey();
-                List<Object> value;
-                if (!tm.containsKey(key)) {
-                    value = new ArrayList<>();
-                } else {
-                    value = tm.get(key);
-                }
+                List<Object> value=tm.getOrDefault(key,new ArrayList<>());
+
+//                if (!tm.containsKey(key)) {
+//                    value = new ArrayList<>();
+//                } else {
+//                    value = tm.get(key);
+//                }
+
                 value.add(next.getValue());
                 tm.put(key, value);
             }
